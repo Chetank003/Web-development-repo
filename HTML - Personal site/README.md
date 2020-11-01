@@ -1,0 +1,1 @@
+This is a basic personal site with HTML and minimal CSS.
